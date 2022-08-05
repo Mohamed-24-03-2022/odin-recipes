@@ -1,0 +1,39 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #a66cff;
+  color: black;
+  font-size: 1.25rem;
+  text-align: center;
+  line-height: 140%;
+}
+
+.container h1 {
+  margin: 0;
+  padding: 3rem 0 0;
+}
+
+.italian-img {
+  height: auto;
+  width: 20%;
+  padding: 2rem 0;
+}
+
+.recipes ul li {
+  list-style-type: none;
+}
+
+.recipes ul li a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: black;
+}
+
+.recipes h2 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.recipes ul {
+  margin: 0;
+  padding: 0;
+}

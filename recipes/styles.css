@@ -1,0 +1,50 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #afb4ff;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 140%;
+}
+
+.container h1 {
+  margin-top: 2rem;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.container h2 {
+  margin: 2rem 0 0;
+}
+
+img {
+  height: auto;
+  width: 25%;
+  border-radius: 25%;
+  padding-top: 2rem;
+}
+
+.italian-img {
+  height: auto;
+  width: 17.5%;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ol {
+  text-align: left;
+  padding-bottom: 1.5rem;
+  margin-top: 0;
+}
+
+.back-button {
+  text-decoration: none;
+  color: black;
+}
